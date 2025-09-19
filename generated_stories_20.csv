@@ -1,0 +1,21 @@
+id,story,complexity,priority
+1,As a user I want to filter results so that I can regain access,High,High
+2,As a customer I want to view profile so that I can track metrics,High,Low
+3,As an admin I want to create projects so that I can communicate,Low,Medium
+4,As a customer I want to customize dashboard so that I can stay informed,Medium,High
+5,As an admin I want to create reports so that I can optimize performance,High,Medium
+6,As a customer I want to upload files so that I can find information,High,Low
+7,As a customer I want to backup data so that I can regain access,High,High
+8,As an admin I want to send messages so that I can protect data,Low,Medium
+9,As a customer I want to assign tasks so that I can access my account,Low,Low
+10,As a customer I want to filter results so that I can analyze usage,Low,High
+11,As a user I want to filter results so that I can delegate work,Medium,Medium
+12,As an admin I want to logout so that I can protect data,Low,High
+13,As a user I want to filter results so that I can communicate,Medium,High
+14,As an admin I want to receive notifications so that I can update my data,Medium,Low
+15,As a customer I want to export data so that I can save files,Medium,Medium
+16,As a user I want to edit profile so that I can coordinate work,High,High
+17,As an admin I want to integrate API so that I can communicate,High,Medium
+18,As a user I want to edit profile so that I can stay informed,Low,Medium
+19,As an admin I want to login so that I can update my data,High,Medium
+20,As a user I want to filter results so that I can narrow results,High,High

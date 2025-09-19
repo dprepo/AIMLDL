@@ -1,0 +1,21 @@
+id,story,complexity,priority,story_points,hours,days,sprints,team_weeks
+1,As a user I want to filter results so that I can regain access,High,High,5,21.65,2.71,0.27,0.54
+2,As a customer I want to view profile so that I can track metrics,High,Low,5,16.98,2.12,0.21,0.42
+3,As an admin I want to create projects so that I can communicate,Low,Medium,5,14.97,1.87,0.19,0.37
+4,As a customer I want to customize dashboard so that I can stay informed,Medium,High,5,17.1,2.14,0.21,0.43
+5,As an admin I want to create reports so that I can optimize performance,High,Medium,5,18.04,2.26,0.23,0.45
+6,As a customer I want to upload files so that I can find information,High,Low,5,16.98,2.12,0.21,0.42
+7,As a customer I want to backup data so that I can regain access,High,High,5,21.65,2.71,0.27,0.54
+8,As an admin I want to send messages so that I can protect data,Low,Medium,5,14.97,1.87,0.19,0.37
+9,As a customer I want to assign tasks so that I can access my account,Low,Low,5,15.67,1.96,0.2,0.39
+10,As a customer I want to filter results so that I can analyze usage,Low,High,5,18.78,2.35,0.23,0.47
+11,As a user I want to filter results so that I can delegate work,Medium,Medium,5,16.7,2.09,0.21,0.42
+12,As an admin I want to logout so that I can protect data,Low,High,5,18.78,2.35,0.23,0.47
+13,As a user I want to filter results so that I can communicate,Medium,High,5,17.1,2.14,0.21,0.43
+14,As an admin I want to receive notifications so that I can update my data,Medium,Low,5,16.62,2.08,0.21,0.42
+15,As a customer I want to export data so that I can save files,Medium,Medium,5,16.7,2.09,0.21,0.42
+16,As a user I want to edit profile so that I can coordinate work,High,High,5,21.65,2.71,0.27,0.54
+17,As an admin I want to integrate API so that I can communicate,High,Medium,5,18.04,2.26,0.23,0.45
+18,As a user I want to edit profile so that I can stay informed,Low,Medium,5,14.97,1.87,0.19,0.37
+19,As an admin I want to login so that I can update my data,High,Medium,5,18.04,2.26,0.23,0.45
+20,As a user I want to filter results so that I can narrow results,High,High,5,21.65,2.71,0.27,0.54
